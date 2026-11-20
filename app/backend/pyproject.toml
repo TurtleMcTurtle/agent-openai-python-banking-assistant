@@ -20,7 +20,7 @@ dependencies = [
     "agent-framework-orchestrations==1.0.0b260402",
     "agent-framework-chatkit==1.0.0b260402",
     "openai-chatkit==1.6.3",
-    "aiohttp==3.13.5",
+    "aiohttp==3.14.4",
     "azure-monitor-opentelemetry",
     "opentelemetry-semantic-conventions-ai==0.4.13"
 ]
